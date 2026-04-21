@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Why I Started Journaling My Code",
+    "content": "This week I began writing short notes after every coding session. I realized most bugs came from assumptions I forgot I made. A tiny habit of logging what changed and why is already making debugging faster."
+  },
+  {
+    "id": 2,
+    "title": "The Coffee Shop Wi-Fi Survival Guide",
+    "content": "I spent an afternoon building from a crowded cafe with unstable Wi-Fi. The fix was simple: keep local docs open, run everything offline-first, and commit small changes often. Productivity improved once I stopped fighting the connection."
+  },
+  {
+    "id": 3,
+    "title": "Small UI Tweaks That Felt Huge",
+    "content": "Today I only changed spacing, button labels, and contrast. No new features, but the app suddenly felt easier to use. It reminded me that polish is not extra work, it is part of usability."
+  }
+]
